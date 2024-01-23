@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "http://localhost:44447",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\VICTOR CAMA\\075_SistemaVentaReactJSNet-master\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
