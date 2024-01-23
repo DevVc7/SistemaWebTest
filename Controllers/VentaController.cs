@@ -215,8 +215,6 @@ namespace ReactVentas.Controllers
                 var str = ex.Message;
                 return StatusCode(StatusCodes.Status500InternalServerError, lista_venta);
             }
-
-
         }
     }
 }
